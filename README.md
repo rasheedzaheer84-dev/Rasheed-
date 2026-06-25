@@ -793,9 +793,9 @@ int main() {
 
     cout << "Teacher Profile" << endl;
     cout << "----------------" << endl;
-    cout << "Name: Mr. Ahmad" << endl;
+    cout << "Name: Mr. parwiz" << endl;
     cout << "Specialization: Computer Science" << endl;
-    cout << "Experience: 10 years" << endl;
+    cout << "Experience: 1 years" << endl;
     cout << "Teaching Skill: Excellent" << endl;
     cout << "Behavior: Professional and kind" << endl;
     cout << "Important: Motivates students and explains clearly";
